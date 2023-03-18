@@ -1,11 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T14:14:21.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" etag="v6SUP8A431NTv2u1dV3R" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-18T14:31:46.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" etag="feioabOLmfLTh-XV7QjF" version="21.0.8" type="github">
   <diagram name="第 1 页" id="T4vhsmyyaOf0c63LwpKi">
     <mxGraphModel dx="747" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-1" value="第一章" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="80" width="260" height="60" as="geometry" />
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-1" value="&lt;p style=&quot;line-height: 100%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;第一章 绪论&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="60" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-2" value="研究背景及意义" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-3" value="国内外研究现状" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-4" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-5" value="组织结构" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;第二章&amp;nbsp; 相关理论与技术&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="180" width="440" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="250" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-7" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="250" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-10" value="联邦学习" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-11" value="异质性数据" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-12" value="定义、分类&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;经典算法&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;常用框架" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-13" value="定义&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;优化方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UJ7PjZlbbnUGj2bf6kb8-1" target="UJ7PjZlbbnUGj2bf6kb8-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="250" as="sourcePoint" />
+            <mxPoint x="410" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;第三章&amp;nbsp; 动态加权聚合方法&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="450" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="UJ7PjZlbbnUGj2bf6kb8-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;第四章&amp;nbsp; 动态客户端选择&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="450" width="320" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
